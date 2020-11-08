@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="240.0" y="319.0">com.martini.demo01.SamsungPhone</node>
+    <node x="760.0" y="159.5">com.martini.demo01.Keyboard</node>
+    <node x="480.0" y="159.5">com.martini.demo01.Earphone</node>
+    <node x="475.5" y="0.0">com.martini.demo01.Bluetooth</node>
+    <node x="480.0" y="319.0">com.martini.demo01.VivoPhone</node>
+    <node x="620.0" y="159.5">com.martini.demo01.Sound</node>
+    <node x="240.0" y="148.0">com.martini.demo01.Phone</node>
+    <node x="0.0" y="319.0">com.martini.demo01.MiPhone</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.martini.demo01.MiPhone" target="com.martini.demo01.Phone">
+      <point x="0.0" y="-27.0" />
+      <point x="110.0" y="294.0" />
+      <point x="276.6666666666667" y="294.0" />
+      <point x="-73.33333333333331" y="60.5" />
+    </edge>
+    <edge source="com.martini.demo01.Keyboard" target="com.martini.demo01.Bluetooth">
+      <point x="0.0" y="-49.0" />
+      <point x="820.0" y="118.0" />
+      <point x="591.6" y="118.0" />
+      <point x="51.60000000000002" y="49.0" />
+    </edge>
+    <edge source="com.martini.demo01.SamsungPhone" target="com.martini.demo01.Phone">
+      <point x="0.0" y="-27.0" />
+      <point x="0.0" y="60.5" />
+    </edge>
+    <edge source="com.martini.demo01.Sound" target="com.martini.demo01.Bluetooth">
+      <point x="0.0" y="-49.0" />
+      <point x="680.0" y="128.0" />
+      <point x="565.8" y="128.0" />
+      <point x="25.799999999999955" y="49.0" />
+    </edge>
+    <edge source="com.martini.demo01.VivoPhone" target="com.martini.demo01.Phone">
+      <point x="0.0" y="-27.0" />
+      <point x="590.0" y="294.0" />
+      <point x="423.3333333333333" y="294.0" />
+      <point x="73.33333333333331" y="60.5" />
+    </edge>
+    <edge source="com.martini.demo01.Phone" target="com.martini.demo01.Bluetooth">
+      <point x="55.0" y="-60.5" />
+      <point x="405.0" y="128.0" />
+      <point x="514.2" y="128.0" />
+      <point x="-25.799999999999955" y="49.0" />
+    </edge>
+    <edge source="com.martini.demo01.Earphone" target="com.martini.demo01.Bluetooth">
+      <point x="0.0" y="-49.0" />
+      <point x="0.0" y="49.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.2000000000000002" x="395.5" y="37.66666666666663" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

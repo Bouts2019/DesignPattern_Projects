@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.martini.type02</OriginalElement>
+  <nodes>
+    <node x="147.0" y="230.0">com.martini.type02.Phone</node>
+    <node x="0.0" y="155.0">com.martini.type02.Voltage220Power</node>
+    <node x="0.0" y="0.0">com.martini.type02.Voltage5Adapter</node>
+    <node x="27.0" y="80.0">com.martini.type02.AcAdapter</node>
+    <node x="0.0" y="230.0">com.martini.type02.Person</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.martini.type02.AcAdapter" target="com.martini.type02.Voltage5Adapter">
+      <point x="0.0" y="-15.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="156.0" y="167.5" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

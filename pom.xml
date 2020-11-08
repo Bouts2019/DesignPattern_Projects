@@ -13,6 +13,15 @@
         <module>DesignPattern02_Factory01</module>
         <module>DesignPattern03_FactoryMethod01</module>
         <module>DesignPattern04_AbstractFactory01</module>
+        <module>DesignPattern05_Prototype01</module>
+        <module>DesignPattern06_Builder01</module>
+        <module>DesignPattern07_Adapter01</module>
+        <module>DesignPattern08_Bridge01</module>
+        <module>DesignPattern09_Decorator01</module>
+        <module>DesignPattern10_Composite01</module>
+        <module>DesignPattern11_Facade01</module>
+        <module>DesignPattern12_Flyweight01</module>
+        <module>DesignPattern13_Proxy01</module>
     </modules>
 
 

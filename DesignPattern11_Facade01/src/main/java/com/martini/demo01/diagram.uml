@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="0.0" y="0.0">com.martini.demo01.AirConditioning</node>
+    <node x="0.0" y="150.0">com.martini.demo01.FacadeDemo01</node>
+    <node x="0.0" y="75.0">com.martini.demo01.ControlSystem</node>
+    <node x="0.0" y="225.0">com.martini.demo01.Projector</node>
+    <node x="174.0" y="225.0">com.martini.demo01.Screen</node>
+    <node x="0.0" y="300.0">com.martini.demo01.Light</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="1.0" x="395.5" y="244.0" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

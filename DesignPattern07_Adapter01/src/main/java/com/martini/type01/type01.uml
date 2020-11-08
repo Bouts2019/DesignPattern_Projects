@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.martini.type01</OriginalElement>
+  <nodes>
+    <node x="184.59375" y="80.0">com.martini.type01.Voltage220Power</node>
+    <node x="9.71875" y="240.0">com.martini.type01.AdapterDemo01</node>
+    <node x="158.5" y="160.0">com.martini.type01.AcAdapter</node>
+    <node x="15.171875" y="0.0">com.martini.type01.Voltage5Adapter</node>
+    <node x="36.5" y="160.0">com.martini.type01.Person</node>
+    <node x="14.546875" y="80.0">com.martini.type01.Phone</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.martini.type01.AcAdapter" target="com.martini.type01.Voltage5Adapter">
+      <point x="-32.25" y="-15.0" />
+      <point x="190.75" y="135.0" />
+      <point x="174.09375" y="135.0" />
+      <point x="174.09375" y="55.0" />
+      <point x="152.421875" y="55.0" />
+      <point x="45.75" y="15.0" />
+    </edge>
+    <edge source="com.martini.type01.AcAdapter" target="com.martini.type01.Voltage220Power">
+      <point x="32.25" y="-15.0" />
+      <point x="255.25" y="135.0" />
+      <point x="276.09375" y="135.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="188.5" y="135.0" />
+  <SelectedNodes>
+    <node>com.martini.type01.Voltage220Power</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
