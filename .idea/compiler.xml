@@ -17,7 +17,9 @@
         <module name="DesignPattern02_Factory01" />
         <module name="DesignPattern06_Builder01" />
         <module name="DesignPattern12_Flyweight01" />
+        <module name="DesignPattern15_Command01" />
         <module name="DesignPattern10_Composite01" />
+        <module name="DesignPattern14_TemplateMethod" />
         <module name="DesignPattern07_Adapter01" />
       </profile>
     </annotationProcessing>

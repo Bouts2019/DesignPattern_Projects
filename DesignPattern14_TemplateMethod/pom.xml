@@ -9,14 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>DesignPattern13_Proxy01</artifactId>
+    <artifactId>DesignPattern14_TemplateMethod</artifactId>
 
-    <dependencies>
-        <dependency>
-            <groupId>cglib</groupId>
-            <artifactId>cglib</artifactId>
-            <version>2.2.2</version>
-        </dependency>
-    </dependencies>
 
 </project>

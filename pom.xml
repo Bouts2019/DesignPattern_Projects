@@ -22,6 +22,8 @@
         <module>DesignPattern11_Facade01</module>
         <module>DesignPattern12_Flyweight01</module>
         <module>DesignPattern13_Proxy01</module>
+        <module>DesignPattern14_TemplateMethod</module>
+        <module>DesignPattern15_Command01</module>
     </modules>
 
 
