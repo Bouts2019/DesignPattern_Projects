@@ -6,21 +6,30 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="DesignPattern18_Observer01" />
         <module name="DesignPattern08_Bridge01" />
+        <module name="DesignPattern22_State01" />
         <module name="DesignPattern09_Decorator01" />
         <module name="DesignPattern01_Singleton01" />
         <module name="DesignPattern03_FactoryMethod01" />
         <module name="DesignPattern04_AbstractFactory01" />
         <module name="DesignPattern05_Prototype01" />
         <module name="DesignPattern11_Facade01" />
+        <module name="DesignPattern20_Memento01" />
         <module name="DesignPattern13_Proxy01" />
+        <module name="DesignPattern16_Visitor01" />
+        <module name="DesignPattern19_Mediator01" />
         <module name="DesignPattern02_Factory01" />
         <module name="DesignPattern06_Builder01" />
         <module name="DesignPattern12_Flyweight01" />
         <module name="DesignPattern15_Command01" />
         <module name="DesignPattern10_Composite01" />
+        <module name="DesignPattern21_Interpreter01" />
+        <module name="DesignPattern24_ChainOfResponsibility01" />
         <module name="DesignPattern14_TemplateMethod" />
+        <module name="DesignPattern23_Strategy01" />
         <module name="DesignPattern07_Adapter01" />
+        <module name="DesignPattern17_Iterator01" />
       </profile>
     </annotationProcessing>
   </component>

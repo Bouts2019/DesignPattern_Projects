@@ -24,6 +24,16 @@
         <module>DesignPattern13_Proxy01</module>
         <module>DesignPattern14_TemplateMethod</module>
         <module>DesignPattern15_Command01</module>
+        <module>DesignPattern16_Visitor01</module>
+        <module>DesignPattern17_Iterator01</module>
+        <module>DesignPattern18_Observer01</module>
+        <module>DesignPattern19_Mediator01</module>
+        <module>DesignPattern19_Mediator01</module>
+        <module>DesignPattern20_Memento01</module>
+        <module>DesignPattern21_Interpreter01</module>
+        <module>DesignPattern22_State01</module>
+        <module>DesignPattern23_Strategy01</module>
+        <module>DesignPattern24_ChainOfResponsibility01</module>
     </modules>
 
 
